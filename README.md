@@ -17,5 +17,8 @@ drive.mount('/content/drive')"
 2- Run the cells in the notebook to preprocess the dataset, build the regression model, and evaluate the model's performance.
 3- Finally, the model will be used to predict the medical insurance costs for new patients.
 
+## Result:
+The model got and Error Square nearly equal between train & test data (0.57 and 0.67 respectively), which means that the model is trained well, there is no overfitting, and the model can be used to predict Medical Insurance Cost accurately 
+
 ## Contributing:
 Contributions are always welcome! Please feel free to submit a pull request or raise an issue.
