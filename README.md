@@ -1,6 +1,9 @@
 # Medical-Insurance-Cost-Prediction
 The project aims to develop a machine learning linear regression model that predicts the medical insurance costs for patients based on various features such as age, gender, BMI, smoking status, and region using the Insurance Cost dataset from Kaggle. The goal is to develop an accurate and reliable model that can assist healthcare providers and policymakers in making informed decisions.
 
+## About me
+i am a computer science engineer specialized in data science and machine learning, I offer my services on Fiverr. you can check out my gig [here] (https://www.fiverr.com/jalilb_/build-machine-learning-deep-learning-projects-with-python)
+
 ## Installation:
 
 1- Open Google Colab in your browser and create a new notebook.
