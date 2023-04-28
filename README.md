@@ -4,16 +4,6 @@ The project aims to develop a machine learning linear regression model that pred
 ## About me
 i am a computer science engineer specialized in data science and machine learning, I offer my services on Fiverr. you can check out my gig [here] (https://www.fiverr.com/jalilb_/build-machine-learning-deep-learning-projects-with-python)
 
-## Installation:
-
-1- Open Google Colab in your browser and create a new notebook.
-2- Clone the repository using git clone https://github.com/jaliil-9/Medical-Insurance-Cost-Prediction.git or upload the project folder to Google Drive and mount the drive in the notebook using the following command:
-"from google.colab import drive
-drive.mount('/content/drive')"
-3- Install the required libraries using pip install or !pip install in the notebook.
-4- Upload the Kaggle medical insurance cost dataset to Google Drive or use the Kaggle API to download the dataset directly in the notebook.
-5- Run the project by executing the cells in the notebook.
-
 ## Usage:
 
 1- Open the notebook and navigate to the project directory.
